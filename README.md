@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI assisted chat application (MERN)**
 
-- 🌱 I’m currently learning **NEXT Js**
+- 🌱 I’m currently learning **AIML**
 
 - 💬 Ask me about **react Js, node Js**
 
