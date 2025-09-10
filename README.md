@@ -52,5 +52,10 @@
 
 ---
 
-### ✨ Quote I Live By
-<p align="center"><i>"The best way to predict the future is to invent it." – Alan Kay</i></p>
+
+<p align="center"><i>
+  "As a man thinketh, so is he"<br/>
+"Yad bhavam tad bhavati" <br/>
+"Mathi ento gathi anthe" <br/>
+</i></p>
+
