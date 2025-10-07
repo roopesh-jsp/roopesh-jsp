@@ -10,9 +10,17 @@
 ### 👨‍💻 About Me  
 - 🔭 Currently working on: **Learnly (Next.js + TypeScript + AI)** – a platform that **tracks users’ learning paths and provides personalized analysis using AI**  
 - 🌱 Exploring: **LangChain, AI Integrations, Advanced Full-Stack Architectures**  
+- 💼 Internship: **Full-Stack Developer at Banao Technologies** – working on **real-world web applications with Next.js, Node.js, and MongoDB**  
 - 💬 Ask me about: **Next.js, React, Node.js, Express, MongoDB, LangChain, AI APIs**  
 - 📫 Reach me at: **rupzkumar5@gmail.com**  
-- ⚡ Fun fact: *I love turning complex problems into simple AI-powered solutions 🚀*  
+---
+
+### 💼 Experience  
+- **Full-Stack Developer Intern** – Banao Technologies
+  - Building extenstions and wroking on projects like **interviewgod.ai**
+  - Contributing to  web applications using **Next.js**  
+  - Implementing **front-end**, optimizing performance, and integrating APIs  
+  - Collaborating in a team environment to deliver real-world projects  
 
 ---
 
@@ -34,7 +42,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roopesh-jsp&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=roopesh-jsp&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roopesh-jsp&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
@@ -52,10 +60,8 @@
 
 ---
 
-
 <p align="center"><i>
   "As a man thinketh, so is he"<br/>
 "Yad bhavam tad bhavati" <br/>
 "Mathi ento gathi anthe" <br/>
 </i></p>
-
