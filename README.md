@@ -8,15 +8,14 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on: **Learnly (Next.js + TypeScript + AI)** – a platform that **tracks users’ learning paths and provides personalized analysis using AI**  
-- 🌱 Exploring: **LangChain, AI Integrations, Advanced Full-Stack Architectures**  
-- 💼 Internship: **Full-Stack Developer at Banao Technologies** – working on **real-world web applications with Next.js, Node.js, and MongoDB**  
-- 💬 Ask me about: **Next.js, React, Node.js, Express, MongoDB, LangChain, AI APIs**  
+- 🌱 Exploring: **AI/ML, LangChain, Advanced Full-Stack Architectures**  
+- 💼 Internship: **MERN-Stack Developer at Banao Technologies** – working on **real-world web applications with Next.js, Chrome extensions, DTL, python**  
+- 💬 Ask me about: **Next.js, React, Node.js, Express, MongoDB, LangChain, GEN-AI**  
 - 📫 Reach me at: **rupzkumar5@gmail.com**  
 ---
 
 ### 💼 Experience  
-- **Full-Stack Developer Intern** – Banao Technologies
+- **MERN-Stack Developer Intern** – Banao Technologies
   - Building extenstions and wroking on projects like **interviewgod.ai**
   - Contributing to  web applications using **Next.js**  
   - Implementing **front-end**, optimizing performance, and integrating APIs  
